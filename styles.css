@@ -51,6 +51,7 @@ body {
 .player_controls {
     position: absolute;
     list-style: none;
+    text-align: center;
 }
 
 .player_controls > li {
